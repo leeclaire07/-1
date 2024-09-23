@@ -40,3 +40,6 @@ function removeMovieCard() {
   const movieContainer = document.getElementById("movie-container");
   movieContainer.innerHTML = "";
 }
+const updateMovieCard = () => {
+  console.log(object);
+};
